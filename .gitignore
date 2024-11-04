@@ -1,0 +1,10 @@
+.venv
+**/.env
+**/chroma_db/ 
+**/.vscode
+__pycache__/
+__pypackages__/
+**/*.png
+test.py 
+test.txt
+
